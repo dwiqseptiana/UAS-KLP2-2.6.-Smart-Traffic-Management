@@ -1,0 +1,101 @@
+,Waktu (jam),Hari,Cuaca,Volume kendaraan,Kendaraan besar,Lampu lalu lintas,Kecelakaan,Pekerjaan jalan,Sekolah dekat,Petugas,Hari libur nasional,Acara besar di kota,Jumlah pejalan kaki,Kondisi jalan,Rata-rata kecepatan
+Kasus_1,Sore,Senin,Mendung,Sedang,Ada,Rusak,Ada,Tidak ada,Tidak,Ada,Ya,Ada,Sedang,Baik,Cepat
+Kasus_2,Malam,Rabu,Cerah,Banyak,Ada,Normal,Ada,Tidak ada,Ya,Tidak ada,Ya,Tidak ada,Sedang,Baik,Cepat
+Kasus_3,Malam,Jumat,Mendung,Sedikit,Tidak ada,Normal,Ada,Tidak ada,Ya,Ada,Ya,Ada,Banyak,Berlubang,Lambat
+Kasus_4,Siang,Jumat,Hujan,Sedang,Tidak ada,Normal,Tidak ada,Ada,Ya,Tidak ada,Ya,Tidak ada,Sedang,Baik,Cepat
+Kasus_5,Pagi,Minggu,Hujan,Banyak,Tidak ada,Normal,Ada,Tidak ada,Tidak,Ada,Tidak,Ada,Banyak,Baik,Cepat
+Kasus_6,Pagi,Kamis,Mendung,Sedang,Ada,Normal,Tidak ada,Ada,Ya,Tidak ada,Ya,Ada,Sedang,Tergenang,Sedang
+Kasus_7,Sore,Minggu,Hujan,Banyak,Ada,Rusak,Tidak ada,Ada,Ya,Tidak ada,Ya,Ada,Banyak,Baik,Sedang
+Kasus_8,Pagi,Selasa,Hujan,Banyak,Tidak ada,Rusak,Ada,Ada,Tidak,Ada,Tidak,Ada,Sedang,Tergenang,Lambat
+Kasus_9,Siang,Kamis,Cerah,Sedang,Ada,Normal,Tidak ada,Ada,Ya,Ada,Tidak,Ada,Sedang,Berlubang,Lambat
+Kasus_10,Malam,Senin,Hujan,Sedikit,Ada,Normal,Tidak ada,Tidak ada,Ya,Tidak ada,Tidak,Tidak ada,Sedang,Berlubang,Lambat
+Kasus_11,Pagi,Kamis,Mendung,Banyak,Tidak ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Tidak,Tidak ada,Sedikit,Tergenang,Lambat
+Kasus_12,Malam,Minggu,Hujan,Sedikit,Tidak ada,Rusak,Tidak ada,Ada,Ya,Tidak ada,Ya,Ada,Sedang,Baik,Cepat
+Kasus_13,Sore,Minggu,Mendung,Banyak,Ada,Rusak,Ada,Tidak ada,Tidak,Tidak ada,Tidak,Tidak ada,Sedang,Berlubang,Sedang
+Kasus_14,Malam,Jumat,Mendung,Sedikit,Ada,Normal,Ada,Ada,Ya,Tidak ada,Ya,Ada,Sedikit,Baik,Cepat
+Kasus_15,Pagi,Kamis,Hujan,Sedang,Tidak ada,Rusak,Tidak ada,Tidak ada,Ya,Tidak ada,Tidak,Ada,Sedang,Berlubang,Sedang
+Kasus_16,Malam,Selasa,Cerah,Sedang,Tidak ada,Rusak,Ada,Ada,Ya,Ada,Tidak,Ada,Sedikit,Tergenang,Cepat
+Kasus_17,Malam,Rabu,Cerah,Sedang,Tidak ada,Normal,Tidak ada,Ada,Ya,Ada,Ya,Ada,Banyak,Baik,Lambat
+Kasus_18,Siang,Kamis,Hujan,Banyak,Ada,Rusak,Tidak ada,Tidak ada,Ya,Tidak ada,Ya,Tidak ada,Sedikit,Tergenang,Lambat
+Kasus_19,Malam,Sabtu,Mendung,Banyak,Ada,Rusak,Tidak ada,Ada,Ya,Ada,Ya,Tidak ada,Sedikit,Berlubang,Lambat
+Kasus_20,Siang,Kamis,Hujan,Sedang,Tidak ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Tidak,Tidak ada,Banyak,Berlubang,Cepat
+Kasus_21,Pagi,Minggu,Mendung,Banyak,Tidak ada,Rusak,Tidak ada,Tidak ada,Tidak,Tidak ada,Ya,Tidak ada,Sedang,Tergenang,Sedang
+Kasus_22,Siang,Minggu,Mendung,Sedang,Ada,Normal,Tidak ada,Tidak ada,Ya,Tidak ada,Ya,Ada,Sedang,Baik,Cepat
+Kasus_23,Pagi,Sabtu,Hujan,Sedang,Tidak ada,Rusak,Tidak ada,Tidak ada,Ya,Tidak ada,Ya,Tidak ada,Banyak,Berlubang,Sedang
+Kasus_24,Sore,Jumat,Mendung,Sedikit,Ada,Normal,Ada,Tidak ada,Tidak,Ada,Ya,Ada,Banyak,Baik,Sedang
+Kasus_25,Sore,Minggu,Cerah,Sedang,Tidak ada,Rusak,Tidak ada,Tidak ada,Ya,Ada,Tidak,Ada,Sedikit,Berlubang,Sedang
+Kasus_26,Pagi,Jumat,Hujan,Banyak,Tidak ada,Rusak,Tidak ada,Ada,Ya,Ada,Tidak,Ada,Banyak,Tergenang,Lambat
+Kasus_27,Pagi,Minggu,Mendung,Sedikit,Ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Tidak,Ada,Sedang,Berlubang,Lambat
+Kasus_28,Malam,Kamis,Hujan,Banyak,Tidak ada,Normal,Tidak ada,Tidak ada,Ya,Tidak ada,Ya,Tidak ada,Sedang,Baik,Lambat
+Kasus_29,Pagi,Selasa,Cerah,Sedang,Ada,Normal,Tidak ada,Tidak ada,Ya,Tidak ada,Tidak,Tidak ada,Banyak,Tergenang,Lambat
+Kasus_30,Malam,Senin,Hujan,Banyak,Tidak ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Tidak,Ada,Banyak,Berlubang,Cepat
+Kasus_31,Pagi,Minggu,Cerah,Sedang,Ada,Normal,Ada,Ada,Tidak,Ada,Tidak,Ada,Banyak,Tergenang,Lambat
+Kasus_32,Pagi,Kamis,Cerah,Sedang,Ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Ya,Ada,Sedikit,Baik,Sedang
+Kasus_33,Malam,Rabu,Hujan,Banyak,Tidak ada,Rusak,Ada,Tidak ada,Tidak,Tidak ada,Ya,Tidak ada,Sedang,Tergenang,Cepat
+Kasus_34,Siang,Selasa,Cerah,Banyak,Tidak ada,Rusak,Ada,Ada,Ya,Ada,Tidak,Tidak ada,Banyak,Baik,Cepat
+Kasus_35,Sore,Minggu,Hujan,Banyak,Tidak ada,Normal,Ada,Ada,Tidak,Ada,Tidak,Tidak ada,Banyak,Baik,Sedang
+Kasus_36,Siang,Kamis,Hujan,Sedikit,Ada,Rusak,Ada,Ada,Tidak,Tidak ada,Ya,Ada,Sedikit,Baik,Cepat
+Kasus_37,Malam,Sabtu,Hujan,Banyak,Ada,Rusak,Tidak ada,Tidak ada,Tidak,Tidak ada,Ya,Tidak ada,Banyak,Tergenang,Lambat
+Kasus_38,Malam,Kamis,Mendung,Sedikit,Ada,Rusak,Ada,Ada,Ya,Tidak ada,Tidak,Ada,Sedang,Tergenang,Lambat
+Kasus_39,Malam,Selasa,Cerah,Sedang,Tidak ada,Rusak,Ada,Ada,Tidak,Tidak ada,Ya,Tidak ada,Sedang,Tergenang,Cepat
+Kasus_40,Pagi,Senin,Hujan,Sedikit,Ada,Normal,Ada,Tidak ada,Tidak,Ada,Tidak,Ada,Banyak,Berlubang,Lambat
+Kasus_41,Sore,Selasa,Hujan,Sedang,Ada,Rusak,Tidak ada,Tidak ada,Tidak,Tidak ada,Tidak,Tidak ada,Sedikit,Tergenang,Sedang
+Kasus_42,Siang,Senin,Cerah,Banyak,Ada,Rusak,Ada,Tidak ada,Ya,Tidak ada,Tidak,Ada,Sedang,Tergenang,Lambat
+Kasus_43,Malam,Selasa,Cerah,Sedikit,Tidak ada,Normal,Ada,Tidak ada,Ya,Ada,Tidak,Ada,Sedikit,Berlubang,Cepat
+Kasus_44,Pagi,Sabtu,Hujan,Sedikit,Tidak ada,Normal,Ada,Ada,Tidak,Tidak ada,Ya,Tidak ada,Sedang,Berlubang,Cepat
+Kasus_45,Pagi,Kamis,Hujan,Sedang,Ada,Normal,Tidak ada,Tidak ada,Ya,Tidak ada,Ya,Ada,Sedikit,Berlubang,Cepat
+Kasus_46,Pagi,Sabtu,Mendung,Banyak,Tidak ada,Rusak,Ada,Ada,Ya,Ada,Tidak,Tidak ada,Banyak,Tergenang,Cepat
+Kasus_47,Siang,Jumat,Cerah,Sedang,Tidak ada,Normal,Tidak ada,Ada,Ya,Tidak ada,Ya,Tidak ada,Banyak,Berlubang,Cepat
+Kasus_48,Siang,Rabu,Hujan,Sedikit,Tidak ada,Normal,Ada,Ada,Ya,Ada,Ya,Tidak ada,Sedikit,Berlubang,Cepat
+Kasus_49,Siang,Kamis,Mendung,Sedikit,Ada,Rusak,Tidak ada,Ada,Ya,Tidak ada,Ya,Ada,Banyak,Tergenang,Sedang
+Kasus_50,Sore,Jumat,Mendung,Sedang,Tidak ada,Rusak,Ada,Tidak ada,Tidak,Tidak ada,Ya,Tidak ada,Banyak,Tergenang,Cepat
+Kasus_51,Malam,Senin,Hujan,Sedikit,Ada,Normal,Tidak ada,Tidak ada,Tidak,Ada,Ya,Ada,Banyak,Tergenang,Cepat
+Kasus_52,Sore,Selasa,Mendung,Sedikit,Ada,Normal,Ada,Ada,Ya,Tidak ada,Ya,Ada,Sedang,Tergenang,Cepat
+Kasus_53,Sore,Rabu,Mendung,Sedikit,Ada,Rusak,Ada,Ada,Tidak,Ada,Tidak,Tidak ada,Banyak,Tergenang,Sedang
+Kasus_54,Sore,Jumat,Cerah,Banyak,Tidak ada,Normal,Tidak ada,Tidak ada,Ya,Ada,Ya,Ada,Sedikit,Tergenang,Sedang
+Kasus_55,Siang,Selasa,Hujan,Sedikit,Ada,Normal,Tidak ada,Ada,Tidak,Ada,Tidak,Tidak ada,Sedikit,Baik,Sedang
+Kasus_56,Pagi,Selasa,Cerah,Sedikit,Tidak ada,Normal,Ada,Ada,Ya,Ada,Ya,Tidak ada,Sedang,Baik,Lambat
+Kasus_57,Malam,Rabu,Mendung,Sedang,Tidak ada,Normal,Ada,Ada,Ya,Tidak ada,Tidak,Tidak ada,Sedikit,Berlubang,Cepat
+Kasus_58,Malam,Rabu,Hujan,Banyak,Tidak ada,Rusak,Ada,Ada,Tidak,Tidak ada,Ya,Tidak ada,Banyak,Baik,Cepat
+Kasus_59,Pagi,Selasa,Cerah,Banyak,Tidak ada,Rusak,Ada,Tidak ada,Tidak,Ada,Tidak,Tidak ada,Sedikit,Tergenang,Lambat
+Kasus_60,Sore,Senin,Hujan,Sedang,Tidak ada,Rusak,Tidak ada,Ada,Ya,Ada,Ya,Tidak ada,Sedikit,Baik,Cepat
+Kasus_61,Sore,Senin,Hujan,Sedang,Ada,Rusak,Tidak ada,Ada,Ya,Tidak ada,Tidak,Ada,Banyak,Baik,Cepat
+Kasus_62,Pagi,Kamis,Mendung,Sedang,Ada,Rusak,Tidak ada,Tidak ada,Tidak,Ada,Ya,Ada,Sedang,Berlubang,Lambat
+Kasus_63,Malam,Sabtu,Hujan,Sedang,Ada,Normal,Ada,Tidak ada,Ya,Tidak ada,Ya,Ada,Banyak,Tergenang,Lambat
+Kasus_64,Pagi,Jumat,Mendung,Sedang,Tidak ada,Rusak,Tidak ada,Tidak ada,Tidak,Tidak ada,Tidak,Tidak ada,Sedang,Baik,Cepat
+Kasus_65,Sore,Senin,Cerah,Sedikit,Ada,Rusak,Ada,Ada,Tidak,Ada,Tidak,Ada,Sedikit,Tergenang,Sedang
+Kasus_66,Pagi,Sabtu,Cerah,Sedikit,Ada,Normal,Tidak ada,Ada,Tidak,Tidak ada,Ya,Tidak ada,Banyak,Baik,Cepat
+Kasus_67,Siang,Jumat,Mendung,Banyak,Tidak ada,Rusak,Tidak ada,Tidak ada,Tidak,Tidak ada,Ya,Tidak ada,Banyak,Tergenang,Lambat
+Kasus_68,Sore,Rabu,Cerah,Sedang,Ada,Normal,Tidak ada,Ada,Ya,Tidak ada,Tidak,Ada,Banyak,Baik,Sedang
+Kasus_69,Sore,Minggu,Cerah,Sedang,Tidak ada,Normal,Ada,Tidak ada,Ya,Ada,Ya,Tidak ada,Banyak,Tergenang,Cepat
+Kasus_70,Malam,Senin,Mendung,Banyak,Tidak ada,Normal,Ada,Ada,Tidak,Tidak ada,Tidak,Tidak ada,Banyak,Berlubang,Cepat
+Kasus_71,Siang,Sabtu,Hujan,Banyak,Ada,Normal,Ada,Tidak ada,Tidak,Tidak ada,Ya,Tidak ada,Banyak,Baik,Cepat
+Kasus_72,Siang,Sabtu,Hujan,Banyak,Ada,Normal,Tidak ada,Ada,Tidak,Tidak ada,Ya,Ada,Sedikit,Baik,Sedang
+Kasus_73,Pagi,Selasa,Cerah,Sedikit,Ada,Normal,Tidak ada,Ada,Ya,Ada,Tidak,Tidak ada,Banyak,Baik,Lambat
+Kasus_74,Sore,Kamis,Cerah,Banyak,Tidak ada,Normal,Tidak ada,Tidak ada,Tidak,Ada,Tidak,Tidak ada,Sedang,Berlubang,Sedang
+Kasus_75,Siang,Senin,Hujan,Banyak,Ada,Rusak,Tidak ada,Tidak ada,Tidak,Ada,Tidak,Tidak ada,Banyak,Baik,Sedang
+Kasus_76,Sore,Kamis,Cerah,Banyak,Tidak ada,Normal,Ada,Ada,Ya,Tidak ada,Tidak,Tidak ada,Sedikit,Berlubang,Cepat
+Kasus_77,Sore,Kamis,Hujan,Sedang,Tidak ada,Normal,Ada,Ada,Tidak,Tidak ada,Tidak,Tidak ada,Sedang,Tergenang,Lambat
+Kasus_78,Malam,Sabtu,Mendung,Banyak,Ada,Normal,Ada,Ada,Ya,Ada,Ya,Ada,Sedikit,Tergenang,Cepat
+Kasus_79,Pagi,Kamis,Mendung,Banyak,Tidak ada,Rusak,Ada,Tidak ada,Tidak,Ada,Tidak,Tidak ada,Sedang,Berlubang,Lambat
+Kasus_80,Pagi,Senin,Hujan,Banyak,Ada,Rusak,Ada,Ada,Tidak,Tidak ada,Tidak,Ada,Sedang,Baik,Sedang
+Kasus_81,Siang,Jumat,Mendung,Banyak,Ada,Rusak,Ada,Ada,Ya,Ada,Ya,Tidak ada,Sedang,Berlubang,Sedang
+Kasus_82,Pagi,Minggu,Cerah,Sedikit,Tidak ada,Normal,Tidak ada,Tidak ada,Ya,Ada,Tidak,Ada,Sedang,Berlubang,Lambat
+Kasus_83,Malam,Sabtu,Mendung,Sedikit,Ada,Rusak,Tidak ada,Ada,Ya,Ada,Tidak,Tidak ada,Sedikit,Tergenang,Lambat
+Kasus_84,Pagi,Minggu,Mendung,Sedikit,Tidak ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Ya,Ada,Banyak,Tergenang,Sedang
+Kasus_85,Sore,Minggu,Mendung,Banyak,Tidak ada,Rusak,Tidak ada,Tidak ada,Ya,Ada,Tidak,Tidak ada,Banyak,Berlubang,Sedang
+Kasus_86,Pagi,Jumat,Mendung,Sedang,Tidak ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Tidak,Ada,Sedang,Baik,Lambat
+Kasus_87,Sore,Senin,Hujan,Banyak,Ada,Normal,Ada,Tidak ada,Tidak,Ada,Ya,Tidak ada,Banyak,Tergenang,Cepat
+Kasus_88,Sore,Selasa,Mendung,Banyak,Tidak ada,Normal,Ada,Ada,Tidak,Ada,Ya,Tidak ada,Sedang,Baik,Cepat
+Kasus_89,Sore,Minggu,Hujan,Sedang,Tidak ada,Rusak,Ada,Ada,Ya,Tidak ada,Tidak,Tidak ada,Banyak,Tergenang,Sedang
+Kasus_90,Siang,Jumat,Mendung,Banyak,Ada,Rusak,Ada,Tidak ada,Ya,Ada,Ya,Tidak ada,Sedang,Tergenang,Sedang
+Kasus_91,Pagi,Minggu,Mendung,Sedikit,Tidak ada,Rusak,Tidak ada,Ada,Ya,Ada,Tidak,Tidak ada,Sedang,Baik,Sedang
+Kasus_92,Malam,Selasa,Hujan,Banyak,Tidak ada,Normal,Tidak ada,Ada,Tidak,Tidak ada,Ya,Tidak ada,Banyak,Baik,Sedang
+Kasus_93,Sore,Jumat,Hujan,Sedikit,Tidak ada,Normal,Tidak ada,Tidak ada,Tidak,Tidak ada,Ya,Ada,Banyak,Baik,Lambat
+Kasus_94,Pagi,Selasa,Mendung,Sedang,Tidak ada,Rusak,Tidak ada,Tidak ada,Ya,Tidak ada,Ya,Tidak ada,Sedang,Baik,Sedang
+Kasus_95,Sore,Selasa,Mendung,Sedang,Ada,Rusak,Ada,Ada,Tidak,Ada,Tidak,Tidak ada,Sedikit,Baik,Cepat
+Kasus_96,Pagi,Selasa,Hujan,Banyak,Tidak ada,Normal,Ada,Ada,Tidak,Tidak ada,Tidak,Tidak ada,Sedang,Tergenang,Cepat
+Kasus_97,Malam,Jumat,Mendung,Banyak,Ada,Rusak,Tidak ada,Tidak ada,Ya,Ada,Ya,Ada,Sedang,Baik,Cepat
+Kasus_98,Malam,Kamis,Hujan,Banyak,Tidak ada,Normal,Ada,Tidak ada,Ya,Ada,Tidak,Tidak ada,Banyak,Baik,Cepat
+Kasus_99,Siang,Rabu,Hujan,Sedikit,Ada,Rusak,Ada,Ada,Ya,Ada,Tidak,Ada,Banyak,Tergenang,Lambat
+Kasus_100,Malam,Jumat,Hujan,Sedikit,Tidak ada,Rusak,Tidak ada,Tidak ada,Ya,Ada,Tidak,Ada,Sedang,Tergenang,Lambat
